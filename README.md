@@ -22,6 +22,10 @@ An innovative smart watering system that leverages IoT technology to monitor and
 - **Microcontroller Integration:** Efficiently connects all components for smooth operation.
 
 ---
+### Design
+
+<img src="https://github.com/user-attachments/assets/93ed9bbf-9f00-4d5e-9009-e9c077a7b45f" alt="WhatsApp Image 2024-12-30 at 23 19 04_ef8b8af8" width="400">
+
 
 ## System Architecture
 
