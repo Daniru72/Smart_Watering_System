@@ -24,7 +24,14 @@ An innovative smart watering system that leverages IoT technology to monitor and
 ---
 ### Design
 
-<img src="https://github.com/user-attachments/assets/93ed9bbf-9f00-4d5e-9009-e9c077a7b45f" alt="WhatsApp Image 2024-12-30 at 23 19 04_ef8b8af8" width="400">
+<img src="https://github.com/user-attachments/assets/93ed9bbf-9f00-4d5e-9009-e9c077a7b45f" alt="WhatsApp Image 2024-12-30 at 23 19 04_ef8b8af8" width="300">
+<img src="https://github.com/user-attachments/assets/b4db9532-d67d-4fb1-bf36-2587e7f4da47" alt="WhatsApp Image 2024-12-30 at 23 19 05_b80096ca" width="300">
+<img src="https://github.com/user-attachments/assets/8713d9fe-e768-4f55-a3e0-b031b38ceffb" alt="WhatsApp Image 2024-12-30 at 23 19 05_7448694c" width="300">
+
+<img src="https://github.com/user-attachments/assets/39eeec6a-e736-4bab-b564-36bab9a45a59" alt="WhatsApp Image 2024-12-30 at 20 44 58_3fcbeb1e" width="300">
+<img src="https://github.com/user-attachments/assets/44db3233-23aa-41fe-9c1e-218ca254a92a" alt="WhatsApp Image 2024-12-30 at 20 44 59_c2bd285a" width="300">
+<img src="https://github.com/user-attachments/assets/ac8410ea-480e-4950-ab03-3b56b07b0e07" alt="WhatsApp Image 2024-12-30 at 20 45 00_c6ea77dd" width="300">
+
 
 
 ## System Architecture
